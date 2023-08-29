@@ -1,5 +1,5 @@
 {
-  "name": "react-practice-api",
+  "name": "react-practice-api-lesson-3",
   "version": "1.0.0",
   "description": "technotes MERN project",
   "main": "server.js",
@@ -16,6 +16,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "mongoose": "^7.4.5",
+    "mongoose-sequence": "^5.3.1",
     "morgan": "^1.10.0",
     "uuid": "^9.0.0"
   },
